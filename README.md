@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**naveenkaranrs/naveenkaranrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Naveen Karan R S**, an aspiring **Embedded Systems & IoT Engineer** with a strong
+interest in real-time systems, firmware development, and cloud-connected automation.
+I focus on building reliable microcontroller-based solutions using modern embedded tools,
+industry workflows, and clean engineering practices.
 
-Here are some ideas to get you started:
+## 🔥 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developing **real-time embedded applications** using STM32 and ESP32  
+- Building **IoT systems** with cloud connectivity (MQTT/HTTP dashboards)  
+- Working on **industrial automation and closed-loop control projects**  
+- Learning **RTOS concepts, embedded drivers, and system architecture**  
+- Strengthening skills in **Embedded C, C++, Python, and MATLAB**
+
+## 🛠️ Tools & Technologies I Use
+
+- **Microcontrollers:** STM32, ESP32, Arduino, Raspberry Pi  
+- **Programming:** Embedded C, C++, Python, MATLAB  
+- **Interfaces & Protocols:** UART, SPI, I2C, PWM, GPIO, MQTT  
+- **Development Tools:** STM32CubeIDE, VS Code, Arduino IDE, Git, GitHub  
+- **Simulation & Testing:** MATLAB, Multisim  
+- **IoT Platforms:** Firebase, Blynk, ThingSpeak  
+
+## 📬 How to Reach Me
+
+📧 **Email:** naveenrs2005@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/naveenkaran2005  
+💻 **GitHub:** https://github.com/NaveenkaranRS  
