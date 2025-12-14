@@ -1,29 +1,43 @@
-## 👨‍💻 About Me
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-I'm **Naveen Karan R S**, an aspiring **Embedded Systems & IoT Engineer** with a strong
-interest in real-time systems, firmware development, and cloud-connected automation.
-I focus on building reliable microcontroller-based solutions using modern embedded tools,
-industry workflows, and clean engineering practices.
+<h1 align="center">Hi 👋, I'm Naveen Karan</h1>
+<h3 align="center">A passionate Embedded Software Developer from India</h3>
 
-## 🔥 What I'm Currently Working On
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- Developing **real-time embedded applications** using STM32 and ESP32  
-- Building **IoT systems** with cloud connectivity (MQTT/HTTP dashboards)  
-- Working on **industrial automation and closed-loop control projects**  
-- Learning **RTOS concepts, embedded drivers, and system architecture**  
-- Strengthening skills in **Embedded C, C++, Python, and MATLAB**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naveenkaranrs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+</p>
 
-## 🛠️ Tools & Technologies I Use
+- 🌱 I’m currently learning **Embedded C**  
+- 💬 Ask me about **Embedded, Firmware**  
+- 📫 How to reach me **naveenrs2005@gmail.com**
 
-- **Microcontrollers:** STM32, ESP32, Arduino, Raspberry Pi  
-- **Programming:** Embedded C, C++, Python, MATLAB  
-- **Interfaces & Protocols:** UART, SPI, I2C, PWM, GPIO, MQTT  
-- **Development Tools:** STM32CubeIDE, VS Code, Arduino IDE, Git, GitHub  
-- **Simulation & Testing:** MATLAB, Multisim  
-- **IoT Platforms:** Firebase, Blynk, ThingSpeak  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/naveenkaran2005" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-## 📬 How to Reach Me
-
-📧 **Email:** naveenrs2005@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/naveenkaran2005  
-💻 **GitHub:** https://github.com/NaveenkaranRS  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+</p>
