@@ -123,49 +123,18 @@ Final-year **Electronics and Communication Engineering** student with hands-on e
 </p>
 
 ---
+## 🌟 Featured Public Projects
 
-## 🚀 Featured Projects
-
-### 🏥 IoMT-Based Real-Time Multi-Parameter ICU Patient Monitoring System — 2025
-
-Developed an IoMT ICU monitoring system achieving **96% real-time monitoring accuracy**. Built ESP32 firmware for sensor acquisition, MQTT communication, and health alerts.
-
-**Tech Stack:** ESP32 | FreeRTOS | MQTT | UART/I2C Sensor Interfacing | IoMT Sensors | Edge Monitoring
-
----
-
-### 🚑 DCN-Enabled Priority-Based Smart Ambulance–Hospital Communication Framework — 2025
-
-Designed a priority-based ambulance–hospital communication framework achieving **40% faster emergency data delivery**. Implemented QoS scheduling with RFID-based traffic prioritization, reducing ambulance intersection delay.
-
-**Tech Stack:** ESP32 | MQTT | Embedded C | QoS Scheduling | RFID Priority | Smart Transport
+| Project | Key Technologies | Description |
+| :--- | :--- | :--- |
+| 🤖 **[Emotion Recognition Vehicle Control System](https://github.com/naveenkaranrs/Emotion-Recognition-and-Adaptive-Vehicle-Control-System)** | ESP32, Embedded C, CAN Protocol, Python, DeepFace (AI/ML), OpenCV, Motor Driver| emotion-aware vehicle control system detecting driver state via AI and dynamically adjusting vehicle speed for safety. |
+| 🎙️ **[Audio Accent Converter](https://github.com/naveenkaranrs/audio-accent-converter)** | Flask, Pydub, NumPy DSP, Web Audio | Speech accent transformation web tool using pitch/formant shifting and dynamic EQ. |
+| 🏭 **[Smart Conveyor AI Inspection](https://github.com/naveenkaranrs/smart-conveyor-ai-inspection)** | STM32, ESP32, OpenCV, L298N | Industrial quality inspection conveyor with embedded motor driver and AI vision. |
+| 🤖 **[Smart Robotic Arm Controller](https://github.com/naveenkaranrs/smart-robotic-arm-controller)** | STM32, ESP32-CAM, ESP8266 | Multi-microcontroller robotic manipulator with live video stream and web control. |
+| ⚡ **[Smith Chart RF Analyzer](https://github.com/naveenkaranrs/smith-chart-rf-analyzer)** | Flutter, Dart, Canvas, AI Solver | Interactive RF transmission line impedance matching app with AI solver. |
+| 💊 **[PharmaTrust Supply Monitor](https://github.com/naveenkaranrs/PharmaChain-IoT-Blockchain-SupplyChain)** | ESP32, Leaflet.js, Esri Maps, ThingSpeak | Pharmaceutical supply chain tracker with satellite map geospatial logging. |
 
 ---
-
-### 🚗 Edge AI-Based Driver Emotion Recognition and Adaptive Vehicle Control System — 2026
-
-Built a real-time emotion-aware vehicle control system detecting driver state via AI and dynamically adjusting vehicle speed for safety. Engineered fatigue detection, speed regulation, and emergency braking, **improving driver safety response by 20%**.
-
-**Tech Stack:** ESP32 | Embedded C | CAN Protocol | Python | DeepFace (AI/ML) | OpenCV | Motor Driver
-
----
-
-### 📦 Embedded AI Conveyor System for Automated Package Quality Control — 2026
-
-Built a real-time conveyor control system using STM32 with sensor-based automation for object detection and operational safety. Developed an ESP32-based industrial web dashboard for live monitoring, mobile camera integration, and remote control.
-
-**Tech Stack:** STM32 | ESP32 | MODBUS | Embedded C | WebSockets | Edge ML | Industrial Dashboard
-
----
-
-### ❤️ Real-Time ECG-Driven Digital Twin of an Anatomical Human Heart
-
-A digital-twin-based system that uses ECG data to visualize the functional behavior of a human heart in 3D and indicate possible functional abnormalities.
-
-**Tech Stack:** ECG | Signal Processing | Digital Twin | MATLAB | 3D Visualization
-
----
-
 ## 💼 Experience
 
 ### Embedded Systems Developer — HYBIX Student Startup
