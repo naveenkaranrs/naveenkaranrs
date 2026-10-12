@@ -132,7 +132,7 @@ Final-year **Electronics and Communication Engineering** student with hands-on e
 | 🏭 **[Smart Conveyor AI Inspection](https://github.com/naveenkaranrs/smart-conveyor-ai-inspection)** | STM32, ESP32, OpenCV, L298N | Industrial quality inspection conveyor with embedded motor driver and AI vision. |
 | 🤖 **[Smart Robotic Arm Controller](https://github.com/naveenkaranrs/smart-robotic-arm-controller)** | STM32, ESP32-CAM, ESP8266 | Multi-microcontroller robotic manipulator with live video stream and web control. |
 | ⚡ **[Smith Chart RF Analyzer](https://github.com/naveenkaranrs/smith-chart-rf-analyzer)** | Flutter, Dart, Canvas, AI Solver | Interactive RF transmission line impedance matching app with AI solver. |
-| 💊 **[PharmaTrust Supply Monitor](https://github.com/naveenkaranrs/PharmaChain-IoT-Blockchain-SupplyChain)** | ESP32, Leaflet.js, Esri Maps, ThingSpeak | Pharmaceutical supply chain tracker with satellite map geospatial logging. |
+| 💊 **[PharmaTrust Supply Monitor](https://github.com/naveenkaranrs/PharmaChain-IoT_Blockchain-SupplyChain)** | ESP32, Leaflet.js, Esri Maps, ThingSpeak | Pharmaceutical supply chain tracker with satellite map geospatial logging. |
 
 ---
 ## 💼 Experience
@@ -195,15 +195,15 @@ Kalasalingam Academy of Research and Education | 2023 – 2027
   <a href="mailto:naveenrs2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+917373373721">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://github.com/naveenkaranrs">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=naveenkaranrs&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
