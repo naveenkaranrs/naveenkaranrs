@@ -74,7 +74,3 @@ Experienced in low-level peripheral driver architecture (memory-mapped registers
   - Organized technical workshops on ARM Cortex-M architecture, bit manipulation, and real-time scheduling.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenkaranrs&style=flat-square&color=38bdf8" alt="Profile Views" />
-</p>
