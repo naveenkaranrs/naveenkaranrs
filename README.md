@@ -1,211 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Embedded+Firmware+Engineer;ARM+Cortex-M+%7C+STM32+%7C+ESP32;IoT+%26+Real-Time+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Embedded+Firmware+Engineer;ARM+Cortex-M+%7C+STM32+Bare-Metal;FreeRTOS+%7C+Real-Time+Systems;Hardware-Software+Bring-Up+%26+Protocols" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Welcome to Naveen Karan R S's GitHub Profile</h1>
+<h1 align="center">Naveen Karan R S</h1>
 
-<h3 align="center">Embedded Firmware Engineer | Embedded Systems | ARM Cortex-M</h3>
+<p align="center">
+  <b>Final-Year Electronics & Communication Engineering Student | Aspiring Firmware Engineer</b><br>
+  Targeting Embedded Software / Firmware Engineering Roles across Europe (Netherlands, France, Ireland)
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveenkaran2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://naveenrsportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=firefox-browser&logoColor=38BDF8" alt="Portfolio" />
   </a>
   <a href="mailto:naveenrs2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/naveenkaranrs">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://naveenkaranportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
+### 👨‍💻 Engineering Profile
+
+Final-year Electronics and Communication Engineering undergraduate at **Kalasalingam Academy of Research and Education** (Graduating 2027) with a deep technical focus on **bare-metal firmware development**, **ARM Cortex-M (STM32)** microcontrollers, and **preemptive real-time kernels (FreeRTOS)**.
+
+Experienced in low-level peripheral driver architecture (memory-mapped registers, clock tree configuration, interrupt vectors, and DMA), hardware-software bring-up using logic analyzers and oscilloscopes, and inter-processor communication over UART, SPI, and I2C.
+
+- 🎯 **Target Domains:** Embedded Firmware, Medical Device Instrumentation (IoMT), Industrial Automation & Automotive ECUs.
+- 📍 **Mobility:** Actively seeking entry-level roles and internships in the Netherlands, France, and Ireland.
 
 ---
 
-## 👨‍💻 About Me
+### 🛠 Technical Capabilities
 
-Final-year **Electronics and Communication Engineering** student with hands-on experience in **embedded firmware development**, microcontroller programming (**ARM Cortex-M/STM32, ESP32, ATmega328P**), and communication protocol implementation (**UART, SPI, I2C, CAN**). Delivered **25+ freelance embedded/IoT projects** and led firmware development for real-time monitoring and industrial automation systems. Skilled in bare-metal programming, RTOS (**FreeRTOS**), interrupt-driven design, and hardware-software integration. Seeking an entry-level **Embedded/Firmware Engineer** role in the semiconductor industry.
-
-* 🎓 **Education:** B.Tech in Electronics & Communication Engineering (2023 – 2027)
-* 🏫 **University:** Kalasalingam Academy of Research and Education
-* 🔧 **Currently:** Embedded Systems Developer @ HYBIX Student Startup
-* 🌱 **Currently Learning:** ARM/STM32 internals, RTOS, Embedded Linux
-* 🔬 **Interests:** Firmware Development, IoT, Edge AI, Signal & Image Processing
-
----
-
-## 🛠 Technical Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_C-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🔧 Microcontrollers & Architecture
-
-<p>
-  <img src="https://img.shields.io/badge/ARM%20Cortex--M%20(STM32)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/ATmega328P-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bare--Metal%20Programming-2C2C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Memory--Mapped%20I%2FO-4B4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Register--Level%20Programming-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PWM-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPIO%20Configuration-8A2BE2?style=for-the-badge" />
-</p>
-
-### 📡 Communication Protocols
-
-<p>
-  <img src="https://img.shields.io/badge/UART-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SPI-808080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/I2C-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CAN%20(Basic)-C0392B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/USB-1ABC9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODBUS-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-</p>
-
-### ⚙️ RTOS & Systems
-
-<p>
-  <img src="https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interrupt%20Handling%20(ISR)-D35400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Task%20Scheduling-2980B9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semaphores-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firmware%20Architecture-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Low--Power%20Design-27AE60?style=for-the-badge" />
-</p>
-
-### 🛠 Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microchip%20Studio-A71930?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-1B4F72?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wokwi-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Altium%20(Basic)-E67E22?style=for-the-badge" />
-</p>
-
-### 🐞 Debugging & Validation
-
-<p>
-  <img src="https://img.shields.io/badge/ST--Link-03234B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Serial%20Monitor-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Oscilloscope-F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logic%20Analyzer-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GDB%20(Basic)-3498DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware%20Bring--Up-C0392B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System--Level%20Testing-7F8C8D?style=for-the-badge" />
-</p>
-
-### ➕ Additional
-
-<p>
-  <img src="https://img.shields.io/badge/PCB%20Design%20%26%20Layout-16A085?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Edge%20ML-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QoS%20Scheduling-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technical%20Documentation-34495E?style=for-the-badge" />
-</p>
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **Architectures & Silicon** | ARM Cortex-M3/M4 (STM32F103, STM32F401), ESP32 (Xtensa Dual-Core), ATmega328P |
+| **Core Languages** | Embedded C (C99/C11, MISRA principles, bit-banding, volatile/const, linker scripts), Modern C++, Python |
+| **Real-Time Systems** | FreeRTOS (Task scheduling, Queues, Semaphores, Event Groups, Priority Inversion handling) |
+| **Hardware Peripherals & Buses** | GPIO, RCC Clock Tree, SysTick, Timers/PWM, UART/USART, SPI, I2C, CAN (Architecture & Frame handling), ADC |
+| **Build & Toolchains** | `arm-none-eabi-gcc`, GNU Make, CMake, OpenOCD, GDB, STM32CubeIDE, VS Code, Git |
+| **Hardware Bring-Up & Test** | Logic Analyzers (PulseView/Saleae), Digital Storage Oscilloscopes, ST-Link v2, Multimeters, Wokwi |
 
 ---
-## 🌟 Featured Public Projects
 
-| Project | Key Technologies | Description |
+### 🌟 Featured Engineering Projects
+
+| Project | Silicon / Stack | Architectural Highlights |
 | :--- | :--- | :--- |
-| 🤖 **[Emotion Recognition Vehicle Control System](https://github.com/naveenkaranrs/Emotion-Recognition-and-Adaptive-Vehicle-Control-System)** | ESP32, Embedded C, CAN Protocol, Python, DeepFace (AI/ML), OpenCV, Motor Driver| emotion-aware vehicle control system detecting driver state via AI and dynamically adjusting vehicle speed for safety. |
-| 🎙️ **[Audio Accent Converter](https://github.com/naveenkaranrs/audio-accent-converter)** | Flask, Pydub, NumPy DSP, Web Audio | Speech accent transformation web tool using pitch/formant shifting and dynamic EQ. |
-| 🏭 **[Smart Conveyor AI Inspection](https://github.com/naveenkaranrs/smart-conveyor-ai-inspection)** | STM32, ESP32, OpenCV, L298N | Industrial quality inspection conveyor with embedded motor driver and AI vision. |
-| 🤖 **[Smart Robotic Arm Controller](https://github.com/naveenkaranrs/smart-robotic-arm-controller)** | STM32, ESP32-CAM, ESP8266 | Multi-microcontroller robotic manipulator with live video stream and web control. |
-| ⚡ **[Smith Chart RF Analyzer](https://github.com/naveenkaranrs/smith-chart-rf-analyzer)** | Flutter, Dart, Canvas, AI Solver | Interactive RF transmission line impedance matching app with AI solver. |
-| 💊 **[PharmaTrust Supply Monitor](https://github.com/naveenkaranrs/PharmaChain-IoT_Blockchain-SupplyChain)** | ESP32, Leaflet.js, Esri Maps, ThingSpeak | Pharmaceutical supply chain tracker with satellite map geospatial logging. |
-
----
-## 💼 Experience
-
-### Embedded Systems Developer — HYBIX Student Startup
-**2025 – Present**
-- Led end-to-end development of embedded and IoT solutions, translating requirements into working hardware prototypes.
-- Managed firmware development, circuit integration, and testing across multiple microcontroller platforms (STM32, ESP32).
-- Collaborated with clients and cross-functional teams to deliver scalable, production-ready embedded systems.
-
-### Embedded Firmware Intern — Kaashiv Info-tech
-**May 2025 – June 2025**
-- Designed and tested embedded hardware circuits with microcontroller-based control systems and hardware-software integration.
-- Developed firmware and performed real-time sensor interfacing using register-level programming techniques.
-- Conducted validation and system-level integration testing using serial monitor tools to verify communication protocol compliance.
-
-### Research And Development Technician - ACM SIGBED Student Chapter
-**May 2025 – june 2026**
-- Conducted research and technical analysis in Embedded Systems, IoT, and Real-Time Systems. 
-- Collaborated with faculty members and student researchers on innovative engineering projects. 
-- Reviewed research papers, analyzed technical literature, and contributed to project development.
+| 🛡️ **[stm32-bare-metal-drivers](https://github.com/naveenkaranrs/stm32-bare-metal-drivers)** | STM32F103 (ARM Cortex-M3), Bare-Metal C, GNU Make | Zero-HAL modular driver suite: RCC clock tree, GPIO, SysTick delay, USART circular buffer, and PWM with custom linker script and automated CI compilation. |
+| 🏥 **[iomt-icu-monitor-freertos](https://github.com/naveenkaranrs/iomt-icu-monitor-freertos)** | FreeRTOS, ESP32, Multi-Sensor Bus | Deterministic ICU vital telemonitoring engine with preemptive task scheduling, sensor polling queues, and safety watchdog alarms. |
+| 🚑 **[ambulance-hospital-qos-framework](https://github.com/naveenkaranrs/ambulance-hospital-qos-framework)** | Embedded C, Network Telemetry, QoS | Dynamic telemetry prioritization engine delivering sub-50ms latency for critical diagnostic packets over lossy links. |
+| 🏭 **[smart-conveyor-ai-inspection](https://github.com/naveenkaranrs/smart-conveyor-ai-inspection)** | STM32F103, ESP32, WebSockets, OpenCV | Dual-MCU automated quality inspection pipeline with deterministic motor control, wireless telemetry bridge, and visual defect detection. |
 
 ---
 
-## 🏆 Achievements & Leadership
+### 💼 Experience & Leadership
 
-* 🚀 Delivered **25+ freelance projects** in embedded systems, IoT, and automation across agriculture, home automation, and industrial monitoring domains since 2024.
-* 🎤 Conducted a hands-on workshop on **Next-Gen Embedded Systems and IoT Development**, covering microcontroller programming, sensor interfacing, and real-time applications.
+- **Embedded Systems Developer** — HYBIX Student Startup *(2025 – Present)*  
+  - Engineered production prototypes across STM32 and ESP32 silicon platforms for real-time monitoring applications.
+  - Implemented interrupt-safe sensor acquisition pipelines and board bring-up validation routines.
 
----
+- **Embedded Firmware Intern** — Kaashiv Info-tech *(May 2025 – June 2025)*  
+  - Designed firmware test routines verifying peripheral timing parameters and bus communications with serial analyzers.
 
-## 📜 Certifications
-
-* 🏆 MATLAB Signal Processing Onramp
-* 🏆 MATLAB Image Processing Onramp
-* 🏆 Image Processing with MATLAB
-* 🏆 Python
-* 🏆 Embedded Systems
-* 🏆 RTOS
-* 🏆 IoT Fundamentals
-* 🏆 Linux
-
----
-
-## 🎓 Education
-
-**B.Tech – Electronics and Communication Engineering**
-Kalasalingam Academy of Research and Education | 2023 – 2027
-
----
-
-
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveenkaran2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naveenrs2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/naveenkaranrs">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- **Research & Development Coordinator** — ACM SIGBED Student Chapter *(May 2025 – June 2026)*  
+  - Organized technical workshops on ARM Cortex-M architecture, bit manipulation, and real-time scheduling.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveenkaranrs&style=flat-square&color=blue" />
-</p>
-
-<p align="center">
-  <i>"Building intelligent and reliable systems through hardware, software, and innovation."</i>
+  <img src="https://komarev.com/ghpvc/?username=naveenkaranrs&style=flat-square&color=38bdf8" alt="Profile Views" />
 </p>
